@@ -5,7 +5,7 @@
   <p>This is snp matrix image..</p>
 </div>
 
-### Text and image at the side
+### Image in the middle and text in side
 <p align="center">
   <img src="https://github.com/Muddemma/selfuse/assets/142823781/7928416f-16e8-46ae-aa1a-19654c4d9220" alt="snp_matrix1">
 </p>
