@@ -29,4 +29,4 @@ By following this structure, you can provide a comprehensive and clear descripti
 
 ## Web link
 
-[website](https://chatgpt.com/c/b0b6babf-596d-42d2-b155-954b74f26742)
+[LInk for the website](https://chatgpt.com/c/b0b6babf-596d-42d2-b155-954b74f26742)
