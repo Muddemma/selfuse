@@ -1,7 +1,7 @@
 # selfuse
 
 <div align="center">
-  <img src="https://github.com/Muddemma/selfuse/assets/142823781/7928416f-16e8-46ae-aa1a-19654c4d9220" alt="snp_matrix1" style="width:50%;"/>
+  <img src="https://github.com/Muddemma/selfuse/assets/142823781/7928416f-16e8-46ae-aa1a-19654c4d9220" alt="snp_matrix1" style="width:30%;"/>
   <p>This image illustrates [brief description of what the image shows].</p>
 </div>
 
